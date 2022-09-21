@@ -19,6 +19,6 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);  // zeigt auf dem Display das an, was in res/layout/activity_main.xml definiert ist
-        setTitle(R.string.activity_title);
+        setTitle(R.string.activity_title)   ;
     }
 }
