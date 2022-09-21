@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-hdpi_android_logo.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-hdpi/android_logo.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-ldpi_icon_thk_android.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-ldpi/icon_thk_android.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-hdpi_icon_thk_android.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-hdpi/icon_thk_android.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-mdpi_icon_thk_android.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-mdpi/icon_thk_android.png"
+    },
+    {
+        "merged": "de.thkoeln.cvogt.android.helloworld.app-merged_res-5:/drawable-xhdpi_icon_thk_android.png.flat",
+        "source": "de.thkoeln.cvogt.android.helloworld.app-main-7:/drawable-xhdpi/icon_thk_android.png"
+    }
+]

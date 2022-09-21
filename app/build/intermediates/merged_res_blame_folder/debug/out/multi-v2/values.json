@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.thkoeln.cvogt.android.helloworld.app-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\karsten\\Documents\\MeineDaten\\local\\git\\AP\\HelloWorldAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,2,8",
+                        "startColumns": "1,1,1",
+                        "startOffsets": "103,52,174",
+                        "endLines": "7,4,10",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "172,101,221"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,129,183",
+                        "endLines": "4,7,10",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "124,178,230"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\karsten\\Documents\\MeineDaten\\local\\git\\AP\\HelloWorldAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,530",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "489,687"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "235,323",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "318,390"
+                    }
+                }
+            ]
+        }
+    ]
+}

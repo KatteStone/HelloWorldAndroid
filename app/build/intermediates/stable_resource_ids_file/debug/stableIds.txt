@@ -1,0 +1,9 @@
+de.thkoeln.cvogt.android.helloworld:style/AppTheme = 0x7f040001
+de.thkoeln.cvogt.android.helloworld:style/AppBaseTheme = 0x7f040000
+de.thkoeln.cvogt.android.helloworld:string/app_name = 0x7f030001
+de.thkoeln.cvogt.android.helloworld:drawable/ic_launcher = 0x7f010001
+de.thkoeln.cvogt.android.helloworld:drawable/icon_thk_android = 0x7f010002
+de.thkoeln.cvogt.android.helloworld:string/activity_title = 0x7f030000
+de.thkoeln.cvogt.android.helloworld:layout/activity_main = 0x7f020000
+de.thkoeln.cvogt.android.helloworld:string/hello = 0x7f030002
+de.thkoeln.cvogt.android.helloworld:drawable/android_logo = 0x7f010000

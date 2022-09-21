@@ -1,0 +1,7 @@
+#Wed Sep 21 10:25:29 CEST 2022
+base.1=C\:\\Users\\karsten\\Documents\\MeineDaten\\local\\git\\AP\\HelloWorldAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.1=1/classes.dex
+base.0=C\:\\Users\\karsten\\Documents\\MeineDaten\\local\\git\\AP\\HelloWorldAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

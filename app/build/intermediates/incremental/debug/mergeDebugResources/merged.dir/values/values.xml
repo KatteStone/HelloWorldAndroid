@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_title">
+  Hello World - VMA TH Köln
+ </string>
+    <string name="app_name">
+  Hello World
+ </string>
+    <string name="hello">
+  Hello World!
+ </string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

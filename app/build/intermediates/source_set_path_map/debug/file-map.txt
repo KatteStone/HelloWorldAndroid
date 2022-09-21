@@ -1,0 +1,8 @@
+de.thkoeln.cvogt.android.helloworld.app-pngs-0 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\generated\res\pngs\debug
+de.thkoeln.cvogt.android.helloworld.app-resValues-1 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\generated\res\resValues\debug
+de.thkoeln.cvogt.android.helloworld.app-rs-2 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\generated\res\rs\debug
+de.thkoeln.cvogt.android.helloworld.app-mergeDebugResources-3 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+de.thkoeln.cvogt.android.helloworld.app-mergeDebugResources-4 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+de.thkoeln.cvogt.android.helloworld.app-merged_res-5 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\build\intermediates\merged_res\debug
+de.thkoeln.cvogt.android.helloworld.app-debug-6 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\src\debug\res
+de.thkoeln.cvogt.android.helloworld.app-main-7 C:\Users\karsten\Documents\MeineDaten\local\git\AP\HelloWorldAndroid\app\src\main\res
